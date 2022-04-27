@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frame330-999</folder>
+	<filename>frame453.jpg</filename>
+	<path>C:\Users\Nastya\Desktop\frame330-999\frame453.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>424</ymin>
+			<xmax>767</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>
